@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.37.56.2",
+    "project": "FRC 2023 comp Robot"
+  }
+]
